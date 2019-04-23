@@ -1,0 +1,2 @@
+This project is a remake of Traversy Media's HTML & CSS Course project entitled "EdgeLedger". In this project, I will use HTML, CSS, as well as jQuery. Some changes I made from the original tutorial:
+      -Instead of giving a pixel amount for the offset of smooth scroll, I went with the navbar's true height from jQuery.
